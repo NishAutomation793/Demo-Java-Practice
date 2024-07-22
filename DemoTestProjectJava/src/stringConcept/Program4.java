@@ -7,7 +7,7 @@ public class Program4 {
 String result="";
 	public String nTimesString( String str, int n)
 	{
-		str.index
+		
 		while(n>=1)
 		{
 			result=str+result;
